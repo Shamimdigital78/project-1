@@ -1,0 +1,147 @@
+
+
+
+
+/* for dextop */
+@media(max-width: 1200px){
+
+}
+
+
+
+/* for laptop */
+@media(max-width: 992px){
+
+}
+
+
+
+/* for tablet */
+@media(max-width: 768px){
+
+    .s2left-col {
+        flex-basis: 100%;
+    }
+    .s2centre-col {
+        flex-basis: 100%;
+        margin: 20px 0;
+    }
+    .s2right-col {
+        flex-basis: 100%;
+    }
+}
+
+
+
+/* for mobile */
+@media(max-width: 576px)
+{
+    .left-col h1 {
+        font-size: 25px;
+        color: black;
+        border-left: 7px solid rgb(244, 224, 4);
+        padding-left: 20px;
+        text-transform: uppercase;
+    }
+    .left-col p {
+        font-size: 20px;
+        line-height: 25px;
+        padding-top: 25px;
+        padding-bottom: 50px;
+       
+    }
+    .left-col {
+        flex-basis: 100%;
+    }
+    .right-col {
+        flex-basis: 100%;
+        
+    }
+    .imgsec1 {
+        width: 125%;
+    }
+    .s2left-col{
+        flex-basis: 100%;  
+    }
+    .s2centre-col{
+        flex-basis: 100%;  
+        margin: 30px 0px;  
+    } 
+    .s2right-col{
+        flex-basis: 100%;   
+    }
+    .sec8 {
+        width: 300px;
+
+    }
+    .contact {
+       width: 300px;
+    }
+    .s4left-col {
+        flex-basis: 100%;
+    } 
+    .s4right-col{
+        flex-basis: 100%;
+    } 
+    .s3left-col {
+        flex-basis: 100%;
+    }  
+    .s3right-col{
+        flex-basis: 100%;    
+    }
+    .img2 {
+        width: 100%;
+    }
+    .s5left-col {
+        flex-basis: 100%;    
+    }
+    .s5right-col {
+        flex-basis: 100%;    
+    }
+    .button3 {
+       
+        padding: 7px 15px 7px 5px;
+    }
+    .s4img3 {
+        width: 95%;
+    }
+
+    .s5h3 {
+        text-align: left;
+       
+    }
+    .s5left-col {
+    
+        padding: 0px 0px 0px 1px;
+    }
+    .form {
+        padding: 0px 113px 0px 0px;
+    }
+    .s5right-col {
+       
+        padding: 0px 0px 0px 0px;
+    }
+    .s3left-col {
+        text-align: left;
+        padding: 38px;
+    }
+    .s3right-col {
+        text-align: left;
+        padding: 7px 0px 0px 8px;
+    }
+    .s4left-col {
+    
+        text-align: left;
+      
+        padding: -1px 0px 0px 40px;
+        
+    }
+    .sec0{
+        display: none;
+    }
+
+}
+
+
+
+
